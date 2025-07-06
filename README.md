@@ -32,8 +32,8 @@ This tool evaluates the strength of a password based on length, complexity, and 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/password-strength-checker.git
-   cd password-strength-checker
+   git clone https://github.com/saifxionty/Password-Strength-Checker.git
+   cd Password-Strength-Checker
    ```
 
 2. Run the script:
